@@ -27,8 +27,6 @@ SO THAT I can organize and plan my business
   ## Tests
   For tests use the following commands: npm test
 
-  ## Mock
-  ![mock!](img/mock2.PNG)
   
   ## Questions?
   Contact me at:
